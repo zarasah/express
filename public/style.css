@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    position: relative;
+    left: 30%;
+    width: 550px;
+    
+}
+
+button {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    color: red;
+    background-color: rgb(234, 243, 246);
+    font-weight: bold;
+    height: 30px;
+    width: 70px;
+}
